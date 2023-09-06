@@ -16,3 +16,12 @@ ask turtles [
 
 
 ### Turtles or bugs?
+
+
+## to-do
+
+
+- [x] Add a picture of a turtle
+- [X] Let the turtles give a polite greeting
+- [ ] Give the turles a little home
+- [ ] Come up with more to-do
