@@ -5,4 +5,14 @@
 
 ## Turtle ecology 
 ## Turtles in programming
+
+```
+crt 10
+ask turtles [
+  show "Hello World!"
+  rt random 360 forward 5
+]
+```
+
+
 ### Turtles or bugs?
